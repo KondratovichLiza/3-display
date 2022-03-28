@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    padding: 20px;
+    display: inline;
+}
+
+nav {
+    background-color: red;
+    padding: 20px 0 20px 0;
+}
+
+.menu {
+    padding-left: 600px;
+    font-weight: bold;
+}
+
+a:hover {
+    background-color: brown;
+}
